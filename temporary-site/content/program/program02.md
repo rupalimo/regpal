@@ -1,11 +1,16 @@
 ---
 date: '2026-09-29T14:24:22-04:00'
 draft: false
+showToc: true
+TocOpen: true
 weight: 2
+
 title: 'Feminist Resistance'
+
 params:
+  order: '2/3'
   program:
-    order: '2/3'
+    type: 'Screening'
     date: '29 November 2023'
     time: '8pm - 10pm'
   venue:

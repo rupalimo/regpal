@@ -4,10 +4,13 @@
 	--main-width: 720px;
 	--header-height: 60px;
 	--footer-height: 60px;
-	--radius: 4px;
+	--radius: 2px;
 	--theme: rgb(255, 255, 255);
 	--reg-pal-comp: rgba(186, 195, 15, 0.79);
 	--reg-pal: rgb(103, 42, 235);
+	--reg-pal2: rgb(166, 127, 249);
+	--reg-pal3: rgb(212, 192, 255);
+
 	--primary: rgb(30, 30, 30);
 	--secondary: rgb(108, 108, 108);
 	--tertiary: rgb(214, 214, 214);

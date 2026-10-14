@@ -1,12 +1,16 @@
 ---
 date: '2026-09-29T14:24:22-04:00'
 draft: false
+showToc: true
+TocOpen: true
 weight: 1
+
 title: 'Young Voices'
 
 params:
+  order: '1/3'
   program:
-    order: '1/3'
+    type: 'Screening'
     date: '28 November 2023'
     time: '8pm - 10pm'
   venue:
