@@ -1,0 +1,18 @@
+<div class="program--header">
+	<p>{{ .Params.program.order }}</p>
+	<h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+</div>
+
+<ul>
+	<li>
+		{{ .Params.program.date }} <br />
+		{{ .Params.program.time }}
+	</li>
+
+	<li>
+		{{ .Params.venue.name }} <br />
+		{{ .Params.venue.address }}
+	</li>
+
+	<li><a href="">Ticket</a></li>
+</ul>
