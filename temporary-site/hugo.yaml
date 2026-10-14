@@ -1,3 +1,4 @@
-baseURL: https://example.org/
+baseURL: ''
 locale: en-us
-title: My New Hugo Project
+title: Regards Palestiniens
+theme: ['PaperMod']
