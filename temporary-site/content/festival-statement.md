@@ -33,6 +33,6 @@ programGenerations of Nakba is co-presented with Cinéma Public, with the suppor
 of The Raah Lab (Concordia University), Maison Palestine ~ Dar Filastin, and
 McGill Refugee Research Group.
 
-Generations of Nakba is co-presented with Cinema Public, with the support of The
-Raah Lab (Concordia University), Maison Palestine ~ Dar Filastin, and McGill
-Refugee Research Group.
+_Generations of Nakba is co-presented with Cinema Public, with the support of
+The Raah Lab (Concordia University), Maison Palestine ~ Dar Filastin, and McGill
+Refugee Research Group._

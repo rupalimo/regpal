@@ -6,7 +6,8 @@
 	--footer-height: 60px;
 	--radius: 4px;
 	--theme: rgb(255, 255, 255);
-	--reg-pal: rgba(183, 150, 255, 0.66);
+	--reg-pal-comp: rgba(186, 195, 15, 0.79);
+	--reg-pal: rgb(103, 42, 235);
 	--primary: rgb(30, 30, 30);
 	--secondary: rgb(108, 108, 108);
 	--tertiary: rgb(214, 214, 214);
