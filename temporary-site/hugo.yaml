@@ -1,7 +1,7 @@
 baseURL: ''
 locale: en-us
 title: Regards Palestiniens
-theme: ['PaperMod']
+theme: PaperMod
 
 params:
   disableThemeToggle: true
@@ -22,3 +22,21 @@ params:
   #   hidden: true # hide everywhere but not in structured data
   #   hiddenInList: true # hide on list pages and home
   #   hiddenInSingle: true # hide on single page
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        useEmbedded: always
+      link:
+        useEmbedded: always
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: static
+      target: assets
