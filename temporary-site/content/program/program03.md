@@ -10,12 +10,12 @@ title: 'Militant cinema'
 params:
   order: '3/3'
   program:
-    type: 'Screening'
-    date: '30 November 2023'
-    time: '8pm - 10pm'
+    pType: 'Screening'
+    pDate: '30 November 2023'
+    pTime: '8pm - 10pm'
   venue:
-    name: 'Cinema Public'
-    address: '505 Rue Jean-Talon E, Montréal, QC'
+    vName: 'Cinema Public'
+    vAddress: '505 Rue Jean-Talon E, Montréal, QC'
   ticket: true
 # cover:
 #     image: "<image path/url>" # image path/url

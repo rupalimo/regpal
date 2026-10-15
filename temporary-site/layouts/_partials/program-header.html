@@ -1,6 +1,6 @@
 <div class="program__item">
 	<div class="program--header">
-		<p class="tag">{{ .Params.program.type }}</p>
+		<p class="tag">{{ .Params.program.pType }}</p>
 
 		<span>
 			<!-- <p class="order">{{ .Params.order }}</p> -->
@@ -10,13 +10,13 @@
 
 	<ul>
 		<li>
-			{{ .Params.program.date }} <br />
-			{{ .Params.program.time }}
+			{{ .Params.program.pDate }} <br />
+			{{ .Params.program.pTime }}
 		</li>
 
 		<li>
-			{{ .Params.venue.name }} <br />
-			{{ .Params.venue.address }}
+			{{ .Params.venue.vName }} <br />
+			{{ .Params.venue.vAddress }}
 		</li>
 
 		<li><a href="">Ticket</a></li>
