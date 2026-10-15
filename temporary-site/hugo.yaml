@@ -1,7 +1,6 @@
 baseURL: ''
 locale: en-us
 title: Regards Palestiniens
-theme: ['PaperMod']
 
 params:
   disableThemeToggle: true
